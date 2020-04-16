@@ -8,5 +8,10 @@ Before storing the data, consider the following:
  
 If not, your disk and memory will explode in time inversely proportional to your network size :)
 
+# Documentation
+
+See [initial documentation](./ipflux-v1.pdf), a technical report under [the SERIOT project](https://seriot-project.eu/).
+
 # Author
+
 Paweł Foremski, <pjf@foremski.pl>, [@pforemski](https://twitter.com/pforemski)
